@@ -5,6 +5,7 @@ import { createServer } from "http";
 enum VideoState {
   PLAYING = "playing",
   PAUSED = "paused",
+  EPISODE_SWITCH = "episodeswitching",
 }
 
 interface Room {
