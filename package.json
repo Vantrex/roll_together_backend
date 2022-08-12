@@ -38,7 +38,8 @@
         "@types/node": "^16.11.6",
         "nodemon": "^2.0.4",
         "express": "^4.17.2",
-        "socket.io": "^4.4.1"
+        "socket.io": "^4.4.1",
+        "ts-node": "^10.4.0"
     },
     "optionalDependencies": {
         "fsevents": "2.1.2"
